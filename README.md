@@ -2,7 +2,7 @@
 
 A Progressive Web App to browse popular Rule 34 Hentai Porn for free.
 
-## Usage
+## Usage 
 
 Use the following link to use it on any device that has a _modern_ internet browser.
 _This includes Android, iOS, Windows, MacOS, and most consoles like the Play Station and Xbox._
